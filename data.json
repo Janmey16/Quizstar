@@ -1,0 +1,90 @@
+[
+    {
+        "1": "Which is the highest rail bridge in the World?",
+        "2": "Which state of India has a temple of RATS?",
+        "3": "Which of the following is the capital of India ?",
+        "4": "Which of the following is a village with no locks and doors?",
+        "5": "The Taj Mahal is located in?",
+        "6": "Which of the fairs is visible from space?",
+        "7": "Which of the following games was invented in India?",
+        "8": "Which of the following is not a costal city of india ?",
+        "9": "Which is the most ancient surviving city in the world?",
+        "10": "Which of the following is the national beverage of India?",
+        "11": "Which is the current tallest statue in the world located in India?",
+        "12": "Which of the following originated in India?"
+    },
+    {
+        "1": [
+            "Chenab Bridge, India",
+            "Najiehe Railway Bridge, China",
+            "Pit River Bridge, US",
+            "Nanpan River Qiubei Bridge, China"
+        ],
+        "2": [
+            "Rajasthan",
+            "Kerala",
+            "Telangana",
+            "Gujarat"
+        ],
+        "3": [
+            "Mumbai",
+            "Delhi",
+            "Chennai",
+            "Lucknow"
+        ],
+        "4": [
+            "Mawlynnong", 
+            "Khonoma",  
+            "Shani Shingnapur",
+            "Punsari" 
+        ],
+        "5": [
+            "Patna",
+            "Delhi",
+            "Benaras",
+            "Agra"
+        ],
+        "6": [
+            "Rann Utsav",
+            "Hornbill Festival",
+            "Pushkar Fair",
+            "Kumbh Mela"
+        ],
+        "7": [
+            "UNO",
+            "Ludo",
+            "Checkers",
+            "Chess"
+        ],
+        "8": [
+            "Bengluru",
+            "Kochin",
+            "Mumbai",
+            "vishakhapatnam"
+        ],
+        "9": [
+            "Gwaliior",
+            "Ujjain",
+            "Varanasi",
+            "Mumbai"
+        ],
+        "10": [
+            "Tea",
+            "Coffee",
+            "Kaadha",
+            "Soft-drinks"
+        ],
+        "11": [
+            "The Statue of Equality",
+            "The Statue of Unity",
+            "Lord Hanuman Statue",
+            "Thiruvalluvar Statue"
+        ],
+        "12": [
+            "Cosmetics",
+            "Shampoo",
+            "Paints",
+            "Deodorants"
+        ]
+    }
+]
